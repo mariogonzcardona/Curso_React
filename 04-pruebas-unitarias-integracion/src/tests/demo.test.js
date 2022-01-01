@@ -7,7 +7,7 @@ describe("Pruebas en el archivo demo.test.js",()=>{
         const mensaje2 = `Hola mundo`;
     
         // 3. Observar el comportamiento
-        expect(mensaje).toBe(mensaje2); //===
+        expect(mensaje2).toBe(mensaje); //===
     })
 });
 

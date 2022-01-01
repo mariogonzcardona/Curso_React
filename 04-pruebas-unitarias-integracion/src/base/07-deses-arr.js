@@ -5,7 +5,7 @@ const retornaArreglo = () =>{
     return ['ABC', 123];
 }
 
-const [ letras, numeros ] = retornaArreglo(); 
+// const [ letras, numeros ] = retornaArreglo(); 
 
 // Tarea
 // 1. el primer valor del arr se llamará nombre
@@ -14,4 +14,4 @@ const usState = ( valor ) => {
     return [ valor, ()=>{ console.log('Hola Mundo') } ];
 }
 
-export {retornaArreglo};
+export {retornaArreglo,usState};
