@@ -43,6 +43,7 @@ Este repositorio está elaborado para aprender sobre React.js y su tecnología a
 | 02-intro-javascript | [Curso_React/02-intro-javascript/readme.md][02] |
 | 03-intro-react | [Curso_React/03-intro-react/readme.md][03] |
 | 04-pruebas-unitarias-integracion | [Curso_React/04-pruebas-unitarias-integracion/readme.md][04] |
+| 05-gif-expert-app | [Curso_React/05-gif-expert-app/readme.md][05] |
 
 ## Despliegues
 
@@ -60,6 +61,7 @@ Estos despliegues se hicieron en Heroku.
    [02]: <https://github.com/mariogonzcardona/Curso_React/blob/main/02-intro-javascript/readme.md>
    [03]: <https://github.com/mariogonzcardona/Curso_React/blob/main/03-intro-react/readme.md>
    [04]: <https://github.com/mariogonzcardona/Curso_React/blob/main/04-pruebas-unitarias-integracion/readme.md>
+   [05]: <https://github.com/mariogonzcardona/Curso_React/blob/main/05-gif-expert-app/readme.md>
 
    
    [credito]: <https://www.udemy.com/course/react-cero-experto/>
