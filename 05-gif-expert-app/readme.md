@@ -30,4 +30,8 @@
 
 - Generar build de producción de nuestra aplicación de React
 
+### __Resultado de la seccion__
+
+![Portada](https://github.com/mariogonzcardona/Curso_React/blob/main/05-gif-expert-app/Fotos/Portada.png?raw=true)
+
 > Esta es una aplicación pequeña pero muy ilustrativa que explica cómo utilizar React + customHooks para poder resolver necesidades en específico que podremos re-utilizar después.
